@@ -10,7 +10,7 @@ redis底层数据结构主要有：dict，skiplist，sds, list, intset, ziplist,
 
 #### 结构图
 
-![](./static/image/redis-dict.png)
+![redis-dict](../../_statics/redis-dict.png)
 
 #### 哈希算法
 
